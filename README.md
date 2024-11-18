@@ -23,7 +23,7 @@ Tabela de conteúdos
 <img src="./src/design/active-states.jpg">
 
 
-### Desktop
+### Desktop 💻
 <img src="./src/design/desktop-design.jpg">
 
 ### Mobile 📱:
