@@ -31,5 +31,5 @@ Tabela de conteúdos
 <img src="./src/design/mobile-design.jpg">
 
 <p >Para uma melhor experiência acessem:
-      <a  href=https://carvalhorp2022.github.io/form-with-validation/ target="_blank">Formulário</a>
+      <a  href=https://carvalhorp2022.github.io/advice-generator-app/ target="_blank">Link de Conselhos</a>
 </p>
